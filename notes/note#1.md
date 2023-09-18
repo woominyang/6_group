@@ -4,7 +4,7 @@
 
 Q1. 
 
-![Untitled](note#1%20e8b5ed5a7f2c41e691c6a6b82b51017e/Untitled.png)
+![Q1](images/img.png)
 
 “어떤 작업 T에 대한 컴퓨터 프로그램의 성능을 P로 측정했을 때 경험 E로 인해 성능이 향상됐다면,
 이 컴퓨터 프로그램은 작업 T와 성능 측정 P에 대해 경험 E로 학습한 것” 에서 T,P,E가 무엇을 뜻하는지 논의해보기”
@@ -27,7 +27,7 @@ y = 1 (b+w1*X*+w2*Y*> 0)
 
 (b는 고려X)
 
-![Untitled](note#1%20e8b5ed5a7f2c41e691c6a6b82b51017e/Untitled%201.png)
+![Q2](images/img1.png)
 
 수인: w1,w2 = (1,1) 라고할때, OR진리표는 만족하는데 AND게이트는 만족하지 않아요. OR게이트
 

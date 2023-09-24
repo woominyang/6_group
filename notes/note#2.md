@@ -46,7 +46,7 @@ Q3. **median_income(중간 소득)과 median_house_value(중간 주택 가격)�
 
 Q4. ocean_proximity은 문자형인데 어떤식으로 변환하여 활용할 것인가?
 
-![Untitled](note#2%20316a7a1588534536953a26a9116fe421/Untitled%201.png)
+![Q4](images/note2img1.png)
 
 우민: ocean_proximity는 문자형으로 표시되고, 범주형 특성을 가지고 있어요. 
 

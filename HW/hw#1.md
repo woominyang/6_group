@@ -32,13 +32,13 @@ SVM은 일반화 능력이 뛰어나며, 학습된 모델은 새로운 이미지
 
  버즈니는 문자 단위의 CNN과 RNN계열의 딥러닝 모델 등장 이후 텍스트 정보 추출 과정을 Bidirectional LSTM과 Self-attention 기법을 활용한 모델로 교체하였다.
 
-![Bidirectional LSTM과 Self-Attention을 이용한 텍스트 정보 추출 모델](HW#images/hw1img.png)
+![Bidirectional LSTM과 Self-Attention을 이용한 텍스트 정보 추출 모델](HW/images/hw1img.png)
 
 Bidirectional LSTM과 Self-Attention을 이용한 텍스트 정보 추출 모델
 
 이미지 데이터는 카테고리 데이터셋을 이용하여 이미지 분류 모델을 학습시킨 후, 해당 모델에서 추출된 이미진 피쳐를 활용하였다. 초기 이미지 분류 모델 중 하나인 VGG 부터 최신 모델까지 다양한 연구를 진행한 후 최적의 모델을 학습하여 사용했다. 최종적으로 텍스트 모델에서 생성된 텍스트 정보와, 이미지 모델에서 추출된 이미지 피쳐를 결합하여 카테고리 분류기를 학습했다.
 
-![텍스트 정보와 이미지 정보를 결합한 최종 분류 모델](HW#images/hw1img1.png)
+![텍스트 정보와 이미지 정보를 결합한 최종 분류 모델](HW/images/hw1img1.png)
 
 텍스트 정보와 이미지 정보를 결합한 최종 분류 모델
 

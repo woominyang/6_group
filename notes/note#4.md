@@ -10,7 +10,7 @@ A: 네 서포트 벡터 머신은 두 클래스로부터 최대한 멀리 떨어
 
 **Q2. 선형 분류와 마진 분류**
 
-![Untitled](note#4%202026bae6f22a452fa8baa49e0a8c1457/Untitled.png)
+![Untitled](images/note4img.png)
 
 Q:  위 그래프는 붓꽃의 품종인 versicolor종과 setosa종을 꽃잎 너비와 길이로 분류한 그래프 입니다. 왼쪽 그래프인 선형 분류 방식과 오른쪽 그래프인 마진 분류 방식에는 어떠한 차이점이 있을까요?
 
